@@ -1,5 +1,6 @@
 **[Demo](https://bogdanawww.github.io/dnd-kanban/)**
 
+# Project created with [Bolt.new](https://bolt.new) and [Cursor](https://cursor.com/)
 
 # Kanban Board - React TypeScript Project
 
