@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kanban Board - React TypeScript Project
 
 A modern, feature-rich Kanban board application built with React, TypeScript, and Tailwind CSS, following a simplified Feature-Sliced Design (FSD) architecture.
@@ -180,3 +181,6 @@ This project is licensed under the MIT License.
 ---
 
 Built with ❤️ using React, TypeScript, and Tailwind CSS
+=======
+# dnd-kanban
+>>>>>>> 5bece1d8df8b22c053c0a50eda73bdb6a76f15e3
