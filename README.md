@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+**[Demo](https://bogdanawww.github.io/dnd-kanban/)**
+
+
 # Kanban Board - React TypeScript Project
 
 A modern, feature-rich Kanban board application built with React, TypeScript, and Tailwind CSS, following a simplified Feature-Sliced Design (FSD) architecture.
